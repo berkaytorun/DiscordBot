@@ -1,0 +1,5 @@
+https://anidiotsguide_old.gitbooks.io/discord-js-bot-guide/content/examples/using-embeds-in-messages.html
+https://discord.js.org/#/docs/main/stable/topics/voice
+https://github.com/discordapp/discord-api-docs/tree/master/docs/resources
+https://anidiotsguide_old.gitbooks.io/discord-js-bot-guide/content/examples/using-embeds-in-messages.html
+https://github.com/fent/node-ytdl-core
