@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const ytdl = require('ytdl-core');
 
-client.login('NDU0NTQ0NTI4NjExNzM3NjAx.DfvBCQ.pNcmtcRjgqjJLjBAWD3MQYJcyVo');
+client.login(BOT_SECRET);
 
 
 client.on('ready', () => {
